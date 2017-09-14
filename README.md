@@ -29,12 +29,12 @@ In summary,  this plugging will be the main source or entry point of all CRUD re
 To install the plugin into your project:
 
 
-```npm install crudpluginObject --save```
+```npm install crudpluginobject --save```
 
 
 To include it into your file
 
-```var crudplugin = require('crudplugin').CrudPlugin;```
+```var crudplugin = require('crudpluginobject').CrudPlugin;```
 
 
 For instance if you have a 'User' model, to create a new record for user, assuming the model has a field called 'email' that you want returned on successful creation:
